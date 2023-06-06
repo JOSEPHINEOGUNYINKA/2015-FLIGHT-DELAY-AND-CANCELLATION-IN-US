@@ -75,8 +75,7 @@ Though the percentage of cancelled flights is small, it is essential that the ai
 
 
 ## DASHBOARD
+
+You can interract with the dashboardby by clicking  [here](https://app.powerbi.com/view?r=eyJrIjoiNWIwNzhhNTQtNWZiNi00MjU0LTkxOWQtYWY4YmZmNzAwOGMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
+
 ![](airline_dashboard.jpg)
-
-You can interract with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNWIwNzhhNTQtNWZiNi00MjU0LTkxOWQtYWY4YmZmNzAwOGMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
-
-
